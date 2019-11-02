@@ -1,0 +1,18 @@
+2248 Ahmet 45
+1823 Meltem 88
+9485 Birsen 79
+4681 Mehmet 92
+3123 Tuncay 0
+9875 Kemal 73
+5576 Berk 0
+2563 Hakan 54
+6548 Cemil 38
+4591 Hasan 77
+1127 Furkan 68
+2050 Hasan 41
+1453 Harun 100
+1071 Alp 92
+1944 Huseyin 78
+1923 Mustafa 100
+0000 AAAAAAA 0
+
